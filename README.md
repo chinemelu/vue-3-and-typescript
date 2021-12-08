@@ -1,4 +1,4 @@
-# vue-3-and-typescript
+# real-world-vue
 
 ## Project setup
 ```
